@@ -1,0 +1,5 @@
+C:\Users\medad\source\repos\ProjetASP\DALProjet\bin\Debug\DALProjet.dll
+C:\Users\medad\source\repos\ProjetASP\DALProjet\bin\Debug\DALProjet.pdb
+C:\Users\medad\source\repos\ProjetASP\DALProjet\obj\Debug\DALProjet.csprojAssemblyReference.cache
+C:\Users\medad\source\repos\ProjetASP\DALProjet\obj\Debug\DALProjet.dll
+C:\Users\medad\source\repos\ProjetASP\DALProjet\obj\Debug\DALProjet.pdb
